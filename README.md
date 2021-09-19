@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-**Mehrab-Evan/Mehrab-Evan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Mehrab Evan
+Student || Competitive Programmer || C++ || Java || HTML || JavaScript
 
 - 🔭 I’m currently working on Competitve Programming(C++) + Java Swing + 
 - 🌱 I’m currently learning with my Team "MAN IN CODE"
