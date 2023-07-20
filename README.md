@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **+8801883875833** Text me via WhatsApp
 
-- 📄 Know about my experiences [https://cutt.ly/r6l7D8M](https://cutt.ly/r6l7D8M)
+- 📄 Know about my experiences [https://cutt.ly/r6l7D8M](https://drive.google.com/file/d/1UJlH8vKdcPlBNrLn24yXCvt914HxlVqC/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
