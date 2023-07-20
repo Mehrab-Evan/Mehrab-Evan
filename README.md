@@ -4,12 +4,12 @@
 <h3 align="center">Majoring in computer science and engineering with a strong background in data structures, algorithms, and a variety of programming languages, including C/C++, Java, Python, JS, and PHP. Developed applications for Android, desktop and other platforms using Java and Firebase, web applications using Laravel and React-Laravel combo using REST-API. Occupied as a teaching assistant for different courses and bootcamp instructor at International Islamic University Chittagong in Bangladesh for more than a year. I have high aspirations to improve my career in the fields of AI - ML and to explore about Block-Chain.</h3>
 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=this-is-shams&" alt="Mehrab-Evan" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab-Evan&" alt="Mehrab-Evan" />
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehrab-Evan&show_icons=true&locale=en&layout=compact" alt="Mehrab-Evan" /></p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-shams&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-shams" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehrab-Evan&label=Profile%20views&color=0e75b6&style=flat" alt="Mehrab-Evan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shamsfarabi99" target="blank"><img src="https://img.shields.io/twitter/follow/shamsfarabi99?logo=twitter&style=for-the-badge" alt="shamsfarabi99" /></a> </p>
 
