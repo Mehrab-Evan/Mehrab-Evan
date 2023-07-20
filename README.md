@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center"><img align="center" width="300px" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif](https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif"/></div>
+<div align="center"><img align="center" width="300px" src="[https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gi](https://media1.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif?cid=ecf05e473dnqqvgvr8ctxtyim79qhy3xw26qoynbe0xf59x3&ep=v1_gifs_search&rid=giphy.gif&ct=g)f"/></div>
 <h1 align="center">Hi 👋, I'm MD. Mehrab Evan</h1>
 <h3 align="center">Majoring in computer science and engineering with a strong background in data structures, algorithms, and a variety of programming languages, including C/C++, Java, Python, JS, and PHP. Developed applications for Android, desktop and other platforms using Java and Firebase, web applications using Laravel and React-Laravel combo using REST-API. Occupied as a teaching assistant for different courses and bootcamp instructor at International Islamic University Chittagong in Bangladesh for more than a year. I have high aspirations to improve my career in the fields of AI - ML and to explore about Block-Chain.</h3>
 
