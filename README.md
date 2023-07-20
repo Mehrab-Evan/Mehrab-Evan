@@ -37,6 +37,8 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/4YAaX7CsQ-paadHsNvC6wdv2nE_7VTKpoNJOTwFhHL4rQqLC8WFe6mNxL-z-e6sfHZbHG-ucPA=s900-c-k-c0x00ffffff-no-rj" alt="react" width="40" height="40"/> </a> 
+<a href="https://developer.android.com/studio?gclid=CjwKCAjwtuOlBhBREiwA7agf1nIkyGOEXe9TgpoHfWqd20pDiHk18wnOJcybN1agsy4xf6jIvED7IBoCraIQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://github.com/Mehrab-Evan/Mehrab-Evan/assets/73308898/1e5e4d03-90a3-41c6-a4a4-1ff6dc846c39" alt="react" width="40" height="40"/> </a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/286-2864921_blender-logo-blender-3d-logo-hd-png-download.png" alt="react" width="40" height="40"/> </a> 
 </p>
 
 - 😄 Pronouns: Mehrab Evan
