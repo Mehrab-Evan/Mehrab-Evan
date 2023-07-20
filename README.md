@@ -6,7 +6,7 @@
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab-Evan&" alt="Mehrab-Evan" />
 <p></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehrab-Evan&show_icons=true&locale=en&layout=compact" alt="this-is-shams" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=this-is-shams&show_icons=true&locale=en&layout=compact" alt="this-is-shams" /></p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-shams&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-shams" /> </p>
