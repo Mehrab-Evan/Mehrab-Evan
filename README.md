@@ -44,4 +44,5 @@
 
 - 😄 Pronouns: Mehrab Evan
 - ⚡ Fun fact: Game Streamer + Athlete + Cyclist + Enjoy Car Driving
+- ⚡ Soft Skills: I Conduct classes in a Learning Center called Faith Coaching Home
 
