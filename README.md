@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python AI Modules (NLP - Computer Vision), Flask, Rest API**
 
-- 📫 How to reach me **+8801883875833** Text me via WhatsApp
+- 📫 How to reach me **+8801883875833** Text me via WhatsApp (Provide your initials and talk to the point. Thank you)
 
 - 📄 Know about my experiences [https://cutt.ly/r6l7D8M](https://drive.google.com/file/d/1UJlH8vKdcPlBNrLn24yXCvt914HxlVqC/view?usp=sharing)
 
