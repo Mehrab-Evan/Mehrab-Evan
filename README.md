@@ -2,7 +2,13 @@
 <div align="center"><img align="center" width="400px" src="mehrab_evan_anime2.jpg"/></div>
 <!-- <div align="center"><img align="center" width="300px" src="https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif"/></div> -->
 <h1 align="center">I'm MD. Mehrab Evan</h1>
-Majoring in computer science and engineering with a strong background in data structures, algorithms, and a variety of programming languages, including C/C++, Java, Python, JS, and PHP. Developed applications for Android, desktop and other platforms using Java and Firebase, web applications using Laravel and React-Laravel combo using REST-API. Occupied as a teaching assistant for different courses and bootcamp instructor at International Islamic University Chittagong in Bangladesh for more than a year. I have high aspirations to improve my career in the fields of AI - ML and to explore about Block-Chain.
+Working in the field of software engineering with almost an experience of one year.
+
+Currently I am working on my university academic research, based on deep learning, computer network and machine learning. In the field of software engineering, I am working with Fast API, Flask web backend frameworks. Learning Node js, Express Js for JavaScript stack in backend. Enjoying Next js framework using react library as front end technology. I've hands on experience on LLMs, Multimodel, Serverless Platform and containerized platform. Meanwhile having sessions with industry expertise exploring the vast world of software architecture and software engineering.
+
+I was connected with Competitive Programming for more than two years. Accomplished a lot of projects during my university career, specialized in discord, telegram chatbot, rest apis and so on. Queryhub is my largest project till now. With four of my friends we built this application for our university. Alhamdulillah there's a lot of users till now. We're still improving it with new features. 
+
+I've professional experience at Solvrz, a startup as an intern for six months. Hands on experiences with LLMs, FastAPI, Flask to build restful APIs. I've been working as a competitive programming bootcamp trainer since my fifth semester. I worked as a professional undergraduate teaching assistant on my 4th and 5th semester on Competitive Programming 1 and Computer Programming 2 (OOP). I wish to make a positive impact in our society.
 
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab-Evan&" alt="Mehrab-Evan" />
@@ -13,7 +19,7 @@ Majoring in computer science and engineering with a strong background in data st
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehrab-Evan&label=Profile%20views&color=0e75b6&style=flat" alt="Mehrab-Evan" /> </p>
 
 
-- 🌱 I’m currently learning **Python AI Modules (NLP - Computer Vision), Flask, Rest API**
+- 🌱 I’m currently learning **Python AI Modules (NLP - Computer Vision - Depp learning), Full stack engineering**
 
 - 📫 How to reach me **+8801883875833** Text me via WhatsApp (Provide your initials and talk to the point. Thank you)
 
