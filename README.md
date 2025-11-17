@@ -2,13 +2,35 @@
 <div align="center"><img align="center" width="400px" src="mehrab_evan_anime2.jpg"/></div>
 <!-- <div align="center"><img align="center" width="300px" src="https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif"/></div> -->
 <h1 align="center">I'm MD. Mehrab Evan</h1>
-Working in the field of software engineering with almost an experience of one year.
+Hi! I’m Mehrab Evan, a Data Engineer at Insightin Technology Ltd Bangladesh, a leading data-driven IT company in Bangladesh and USA.
 
-Currently I am working on my university academic research, based on deep learning, computer network and machine learning. In the field of software engineering, I am working with Fast API, Flask web backend frameworks. Learning Node js, Express Js for JavaScript stack in backend. Enjoying Next js framework using react library as front end technology. I've hands on experience on LLMs, Multimodel, Serverless Platform and containerized platform. Meanwhile having sessions with industry expertise exploring the vast world of software architecture and software engineering.
+💻 Current Role:
+I work on large-scale healthcare data projects for U.S. health service providers focusing on:
+Building and optimizing ETL pipelines, data warehouses, and distributed databases
+Working with big data technologies like Spark and Hadoop for high-performance computing
+Query optimization and large-scale data processing
+Developing AI agents using Generative AI, LLMs, LangChain, LangGraph, and Azure OpenAI
 
-I was connected with Competitive Programming for more than two years. Accomplished a lot of projects during my university career, specialized in discord, telegram chatbot, rest apis and so on. Queryhub is my largest project till now. With four of my friends we built this application for our university. Alhamdulillah there's a lot of users till now. We're still improving it with new features. 
+💻 Core Tools & Technologies
+Databases: Azure SQL Server, PostgreSQL, MongoDB
+Big Data: Apache Spark, Hadoop
+Systems: Linux Server, Azure VM, Docker, Airflow
+Currently working with Microsoft Fabric, Apache Kafka, and AI for Data Engineering
 
-I've professional experience at Solvrz, a startup as an intern for six months. Hands on experiences with LLMs, FastAPI, Flask to build restful APIs. I've been working as a competitive programming bootcamp trainer since my fifth semester. I worked as a professional undergraduate teaching assistant on my 4th and 5th semester on Competitive Programming 1 and Computer Programming 2 (OOP). I wish to make a positive impact in our society.
+🚀 Side Skills & Projects
+Built QueryHub, an AI-powered Q&A forum recognized among university students
+Experience in software development (LMS, real-time apps, heavy web scraping)
+Worked on multimodal AI projects (image-based RAG, radiology tasks)
+Backend experience with FastAPI, Flask, Django, and earlier with PHP, Laravel
+
+🎓 University & Teaching Experience
+Active in Competitive Programming for 2+ years, including serving as a bootcamp trainer
+Worked as an undergraduate teaching assistant for Competitive Programming & OOP
+Internship as a Software Engineer in a startup (6 months)
+Early hands-on experience with LLMs and building RESTful APIs
+
+🌍 Vision
+To make a positive impact in society
 
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab-Evan&" alt="Mehrab-Evan" />
