@@ -1,70 +1,121 @@
 ### Hi there 👋
-<div align="center"><img align="center" width="400px" src="mehrab_evan_anime2.jpg"/></div>
-<!-- <div align="center"><img align="center" width="300px" src="https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif"/></div> -->
-<h1 align="center">I'm MD. Mehrab Evan</h1>
-Hi! I’m Mehrab Evan, a Data Engineer at Insightin Technology Ltd Bangladesh, a leading data-driven IT company in Bangladesh and USA.
-
-💻 Current Role:
-I work on large-scale healthcare data projects for U.S. health service providers focusing on:
-Building and optimizing ETL pipelines, data warehouses, and distributed databases
-Working with big data technologies like Spark and Hadoop for high-performance computing
-Query optimization and large-scale data processing
-Developing AI agents using Generative AI, LLMs, LangChain, LangGraph, and Azure OpenAI
-
-💻 Core Tools & Technologies
-Databases: Azure SQL Server, PostgreSQL, MongoDB
-Big Data: Apache Spark, Hadoop
-Systems: Linux Server, Azure VM, Docker, Airflow
-Currently working with Microsoft Fabric, Apache Kafka, and AI for Data Engineering
-
-🚀 Side Skills & Projects
-Built QueryHub, an AI-powered Q&A forum recognized among university students
-Experience in software development (LMS, real-time apps, heavy web scraping)
-Worked on multimodal AI projects (image-based RAG, radiology tasks)
-Backend experience with FastAPI, Flask, Django, and earlier with PHP, Laravel
-
-🎓 University & Teaching Experience
-Active in Competitive Programming for 2+ years, including serving as a bootcamp trainer
-Worked as an undergraduate teaching assistant for Competitive Programming & OOP
-Internship as a Software Engineer in a startup (6 months)
-Early hands-on experience with LLMs and building RESTful APIs
-
-🌍 Vision
-To make a positive impact in society
 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab-Evan&" alt="Mehrab-Evan" />
-<p></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehrab-Evan&show_icons=true&locale=en&layout=compact" alt="Mehrab-Evan" /></p>
+  <img align="center" width="380px" src="mehrab_evan_anime2.jpg"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehrab-Evan&label=Profile%20views&color=0e75b6&style=flat" alt="Mehrab-Evan" /> </p>
+<h1 align="center">MD Mehrab Hossain Chowdhury</h1>
+<h3 align="center">Adjunct Faculty • Data Engineer • AI Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 👨‍💻 About Me
+I’m an Adjunct Faculty at **International Islamic University Chittagong (IIUC)** and a Data Engineer with nearly 2 years of combined academic and industry experience.
+
+I specialize in building **scalable data systems**, **ETL pipelines**, and **AI-driven applications**, while also teaching core CSE subjects like:
+- Operating Systems  
+- Computer Networks  
+- Algorithms  
+- Computer Programming (C)  
+
+I enjoy connecting **theoretical concepts with real-world systems**.
+
+---
+
+### 💼 Current Work
+
+🔹 **Adjunct Faculty — IIUC (2026–Present)**
+- Teaching 180+ undergraduate students
+- Designing curriculum, assignments & assessments
+- Applying Outcome-Based Education (OBE)
+
+🔹 **Data Engineer — Insightin Technology (2024–2026)**
+- Built centralized ETL pipelines (Azure VM, Blob, SQL Server, PostgreSQL, MongoDB)
+- Optimized geo-distance algorithm (**~70% faster**)
+- Reduced infrastructure cost through system improvements
+- Orchestrated workflows using **Apache Airflow**
+- Developed AI agents using **FastAPI, LangChain, LangGraph, Azure OpenAI**
+- Worked with **Microsoft Fabric (ELT pipelines)**
+
+---
+
+### 🚀 Projects & Contributions
+
+🔸 **QueryHub Platform**
+- AI-powered student Q&A system
+- 500+ active users
+
+🔸 **IIUC Bootcamp Mentor**
+- Trained and mentored 200+ students
+
+🔸 **Industrial Mentorship Program**
+- Managed Discord bots & automation systems
+
+---
+
+### 🧠 Research
+
+📄 *Advancements in Medical Imaging: Kidney Disease Classification*  
+- IEEE COMPASS 2024  
+
+📄 *Shallow VGG19 with Attention Mechanism*  
+- Undergraduate Thesis (2024)
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+`C` `C++` `Python` `SQL`
+
+#### 🗄️ Databases
+`SQL Server` `PostgreSQL` `MongoDB`
+
+#### ☁️ Cloud & Systems
+`Azure` `DigitalOcean` `Linux`
+
+#### ⚙️ Data Engineering
+`Spark` `Airflow` `ETL/ELT`  
+`Microsoft Fabric (Learning)` `DBT (Learning)` `Databricks (Learning)`
+
+#### 🤖 AI & Backend
+`LangChain` `LangGraph` `RAG` `LLMs`  
+`FastAPI` `Flask`
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrab-Evan&" />
+  <p></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehrab-Evan&show_icons=true&locale=en&layout=compact" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/md-mehrab-evan-029a06197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MD. Mehrab Evan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mehrab.evan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mehrab Evan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-mehrab-evan-029a06197/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="mailto:m.mehrab15@gmail.com" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="express" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/4YAaX7CsQ-paadHsNvC6wdv2nE_7VTKpoNJOTwFhHL4rQqLC8WFe6mNxL-z-e6sfHZbHG-ucPA=s900-c-k-c0x00ffffff-no-rj" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://developer.android.com/studio?gclid=CjwKCAjwtuOlBhBREiwA7agf1nIkyGOEXe9TgpoHfWqd20pDiHk18wnOJcybN1agsy4xf6jIvED7IBoCraIQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://github.com/Mehrab-Evan/Mehrab-Evan/assets/73308898/1e5e4d03-90a3-41c6-a4a4-1ff6dc846c39" alt="react" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/772/151/png-transparent-blender-logo-tech-companies-thumbnail.png" alt="react" width="40" height="40"/> </a> 
-</p>
+---
 
-- 😄 Pronouns: Mehrab Evan
-- ⚡ Fun fact: Game Streamer + Athlete + Cyclist + Enjoy Car Driving
-- ⚡ Soft Skills: I Conduct classes in a Learning Center called Faith Coaching Home in intermediate ICT, class 9-10 Physics and class 8 English. 
+### 🎯 Vision
+To build impactful systems that combine **data engineering, AI, and education** to solve real-world problems.
 
+---
+
+### ⚡ Fun Facts
+- 🎓 Teacher & Mentor
+- 💻 Backend & AI Builder
+- 🚴 Cyclist & Tech Enthusiast
+- 🎮 Occasional Gamer
+
+---
