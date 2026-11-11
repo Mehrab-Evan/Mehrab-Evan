@@ -5,12 +5,12 @@
 </div>
 
 <h1 align="center">MD Mehrab Hossain Chowdhury</h1>
-<h3 align="center">Adjunct Faculty • Data Engineer • AI Enthusiast</h3>
+<h3 align="center">Faculty Member @ IIUC CSE Department • Data Engineer • AI Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
-I’m an Adjunct Faculty at **International Islamic University Chittagong (IIUC)** and a Data Engineer with nearly 2 years of combined academic and industry experience.
+I’m a Lecturer in the department of CSE, **International Islamic University Chittagong (IIUC)** and a Data Engineer with nearly 3 years of combined academic and industry experience.
 
 I specialize in building **scalable data systems**, **ETL pipelines**, and **AI-driven applications**, while also teaching core CSE subjects like:
 - Operating Systems  
@@ -23,8 +23,13 @@ I enjoy connecting **theoretical concepts with real-world systems**.
 ---
 
 ### 💼 Current Work
+🔹 **Lecturer — IIUC (August, 2026 – Present)**
+- Applying real world cloud infrastructure in the Computer Network course.
+- Enforcing RTOS for ESP-32 microcontroller on different crietrias in the Operating Systems course.
+- Teaching trending LLM using langchain, langgraph, huggingfacehub in the Tools and Technologies for Internet Programming course.
+- Applying Outcome-Based Education (OBE)
 
-🔹 **Adjunct Faculty — IIUC (2026–Present)**
+🔹 **Adjunct Lecturer — IIUC (February, 2026 – August, 2026)**
 - Teaching 180+ undergraduate students
 - Designing curriculum, assignments & assessments
 - Applying Outcome-Based Education (OBE)
@@ -39,6 +44,18 @@ I enjoy connecting **theoretical concepts with real-world systems**.
 
 ---
 
+### 🧠 Research
+📄 *Beyond Accuracy: A Comparative Study of Confidence Calibration Across CNN Backbones for Kidney CT Image Classification*  
+- IEEE OMLET 2026  
+
+📄 *Advancements in Medical Imaging: Kidney Disease Classification*  
+- IEEE COMPASS 2024  
+
+📄 *Shallow VGG19 with Attention Mechanism*  
+- Undergraduate Thesis (2024)
+
+---
+
 ### 🚀 Projects & Contributions
 
 🔸 **QueryHub Platform**
@@ -50,16 +67,6 @@ I enjoy connecting **theoretical concepts with real-world systems**.
 
 🔸 **Industrial Mentorship Program**
 - Managed Discord bots & automation systems
-
----
-
-### 🧠 Research
-
-📄 *Advancements in Medical Imaging: Kidney Disease Classification*  
-- IEEE COMPASS 2024  
-
-📄 *Shallow VGG19 with Attention Mechanism*  
-- Undergraduate Thesis (2024)
 
 ---
 
